@@ -1,0 +1,11 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "mekari",
+  "password": "",
+  "database": "jarrum",
+  "entities": ["./entity/*.js"],
+  "logging": true,
+  "synchronize": true
+}
