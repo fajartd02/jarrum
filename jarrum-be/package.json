@@ -1,0 +1,16 @@
+{
+  "name": "jarrum-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Fajar M. Hamka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
